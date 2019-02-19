@@ -4,3 +4,5 @@ bot_username = "complexify_bot"
 bot_link = "tg://resolve?domain=complexify_bot"
 
 words_api_token = "d99e00040emsh5ab67fdb3e63bd7p17885ajsn11b8bbba988e"
+mw_dict_api_token = "e6c283bc-9553-4eb5-8a79-b975976d8a7b"
+mw_thes_api_token = "520400dd-f394-4267-9869-2bda62f71cf3"
