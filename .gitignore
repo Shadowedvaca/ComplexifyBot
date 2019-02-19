@@ -344,10 +344,10 @@ healthchecksdb
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
 
+# Specifics for this project
 config.py
 config.pyc
 config2.py
 config2.pyc
 config3.py
 config3.pyc
-.vs

@@ -5,6 +5,11 @@
       "taskName": "task-config",
       "appliesTo": "config.pyc",
       "type": "launch"
+    },
+    {
+      "taskName": "task-ComplexifyBot",
+      "appliesTo": "/",
+      "type": "launch"
     }
   ]
 }
